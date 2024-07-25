@@ -1,4 +1,4 @@
-# Scrive API php intergration
+# Scrive API php integration
 
  PHP repository to work with scrive API v2.0 (e-signing service)
 
